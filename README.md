@@ -19,7 +19,7 @@ Practice conditions, arithmetic operations, and validation.
 
 ## How to Run
 ```bash
-python grade_calculator.py
+python grade-calculator.py
 ```
 
 ## Grade Criteria
@@ -48,11 +48,11 @@ python grade_calculator.py
        STUDENT GRADE CALCULATOR
 ========================================
 Enter student name: Nabila Khan
-Enter marks for Python (0-100): 85
-Enter marks for Mathematics (0-100): 78
-Enter marks for English (0-100): 92
-Enter marks for Science (0-100): 66
-Enter marks for Computer (0-100): 74
+Enter marks for Python : 85
+Enter marks for Mathematics : 78
+Enter marks for English : 92
+Enter marks for Science : 66
+Enter marks for Computer : 74
 
 ========================================
            STUDENT RESULT
@@ -78,11 +78,11 @@ Result        : PASS
        STUDENT GRADE CALCULATOR
 ========================================
 Enter student name: Rahul Verma
-Enter marks for Python (0-100): 95
-Enter marks for Mathematics (0-100): 88
-Enter marks for English (0-100): 91
-Enter marks for Science (0-100): 97
-Enter marks for Computer (0-100): 90
+Enter marks for Python : 95
+Enter marks for Mathematics : 88
+Enter marks for English : 91
+Enter marks for Science : 97
+Enter marks for Computer : 90
 
 ========================================
            STUDENT RESULT
@@ -108,15 +108,15 @@ Result        : PASS
        STUDENT GRADE CALCULATOR
 ========================================
 Enter student name: Priya Singh
-Enter marks for Python (0-100): 35
-Enter marks for Mathematics (0-100): abc
+Enter marks for Python : 35
+Enter marks for Mathematics : abc
 Invalid input! Please enter a number.
-Enter marks for Mathematics (0-100): 105
+Enter marks for Mathematics : 105
 Invalid marks! Please enter a value between 0 and 100.
-Enter marks for Mathematics (0-100): 40
-Enter marks for English (0-100): 30
-Enter marks for Science (0-100): 38
-Enter marks for Computer (0-100): 32
+Enter marks for Mathematics : 40
+Enter marks for English : 30
+Enter marks for Science : 38
+Enter marks for Computer : 32
 
 ========================================
            STUDENT RESULT
